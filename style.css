@@ -5,3 +5,7 @@ p{
 h3{
     color:orangered;
 }
+
+summary{
+    color: green;
+}
